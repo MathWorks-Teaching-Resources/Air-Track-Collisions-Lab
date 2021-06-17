@@ -40,6 +40,12 @@ STLs and images used by the Simscape Multibody models.
 ## Products ##
 MATLAB&reg;, Simscape&trade;, Simscape Multibody
 
+## License ##
+The license for this module is available in the [LICENSE.TXT](license.txt) file in this GitHub repository.
+
+## Support ##
+Have any questions or feedback? Contact the <a href="mailto:onlineteaching@mathworks.com">MathWorks online teaching team.</a>
+
 # #
 
 _Copyright 2021 The MathWorks, Inc._
