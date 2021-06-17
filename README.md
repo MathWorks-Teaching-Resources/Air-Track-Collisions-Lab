@@ -1,4 +1,5 @@
-# Air Track Collisions Lab [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-Phase-Plane-and-Slope-Field)
+# Air Track Collisions Lab [![View Air-Track-Collisions-Lab on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94230-air-track-collisions-lab)
+
 **Curriculum Module**  
 _Created with R2021a. Compatible with R2021a and later releases._  
 
