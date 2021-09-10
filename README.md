@@ -2,7 +2,7 @@
 **Curriculum Module**  
 _Created with R2021a. Compatible with R2021a and later releases._  
 
-<img src="./SupportingFiles/airTrackAnimation.gif" width="700">
+<img src="https://user-images.githubusercontent.com/81383420/132902742-5a256de3-d72e-433a-b7fb-dfd7913abccd.gif" width="700">
 
 ## Description ##
 This curriculum module contains [Simscape Multibody](https://www.mathworks.com/products/simmechanics.html)&trade; models and [live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that explore one-dimensional collisions using a virtual air track. The air track can be configured to model elastic or inelastic collisions. The live scripts contain instructions for conducting experiments using the virtual air track. The instructions include theory, pre-lab, virtual experiment, and data analysis sections. The law of conservation of momentum is studied by simulating elastic and inelastic collisions. The law of conservation of energy is studied by attaching a hanging mass to one of the carts.
