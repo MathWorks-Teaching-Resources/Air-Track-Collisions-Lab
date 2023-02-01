@@ -1,11 +1,14 @@
-# Air Track Collisions Lab [![View Air Track Collisions Lab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94230-air-track-collisions-lab)
+# Air Track Collisions Lab 
+[![View Air Track Collisions Lab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94230-air-track-collisions-lab)
+or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj)
+
 **Curriculum Module**  
 _Created with R2021a. Compatible with R2021a and later releases._  
 
-<img src="https://user-images.githubusercontent.com/81383420/132902742-5a256de3-d72e-433a-b7fb-dfd7913abccd.gif" width="600">
+<img src="./SupportingFiles/airTrackAnimation.gif" width="700">
 
 ## Description ##
-This curriculum module contains a [Simscape Multibody](https://www.mathworks.com/products/simmechanics.html)&trade; model and [live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that explore one-dimensional collisions using a virtual air track. The air track can be configured to model elastic or inelastic collisions. The live scripts contain instructions for conducting experiments using the virtual air track. The instructions include theory, pre-lab, virtual experiment, and data analysis sections. The law of conservation of momentum is studied by simulating elastic and inelastic collisions. The law of conservation of energy is studied by attaching a hanging mass to one of the carts.
+This curriculum module contains a [Simscape Multibody](https://www.mathworks.com/products/simscape-multibody.html)&trade; model and [live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that explore one-dimensional collisions using a virtual air track. The air track can be configured to model elastic or inelastic collisions. The live scripts contain instructions for conducting experiments using the virtual air track. The instructions include theory, pre-lab, virtual experiment, and data analysis sections. The law of conservation of momentum is studied by simulating elastic and inelastic collisions. The law of conservation of energy is studied by attaching a hanging mass to one of the carts.
 
 Get started with the Air Track Collisions Lab by downloading and unzipping the repository. Then, double-click the project .prj file inside MATLAB&reg;. From there, you can follow the landing page instructions to get started with the lab.
 
