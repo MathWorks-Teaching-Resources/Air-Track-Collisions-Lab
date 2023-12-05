@@ -1,4 +1,3 @@
-*.m linguist-language=MATLAB
 *.fig binary
 *.mat binary
 *.mdl binary diff merge=mlAutoMerge
@@ -17,7 +16,7 @@
 *.slmx binary merge=mlAutoMerge
 *.sltx binary
 *.slxc binary
-*.slx binary merge=mlAutoMerge linguist-language=Simulink
+*.slx binary merge=mlAutoMerge
 *.slxp binary
 
 ## Other common binary file types
