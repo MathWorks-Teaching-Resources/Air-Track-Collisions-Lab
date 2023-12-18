@@ -44,7 +44,7 @@ Use the [<img src="Images/image_2.png" width="136" alt="image_2.png">](https://m
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on [Air_Track_Lab.prj](matlab: openProject("Air_Track_Lab.prj")). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on  [Air_Track_Lab.prj]("Air_Track_Lab.prj"). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
 
 
 Ensure you have all the required products ([listed below](#H_E850B4FF)) installed. If you need to include a product, add it using the Add-On Explorer. To install an add-on, go to the **Home** tab and select  <img src="Images/image_3.png" width="16" alt="image_3.png"> **Add-Ons** > **Get Add-Ons**. 
