@@ -80,7 +80,7 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 | :-- | :-- |
 
 ## [**EnergyConservation.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=EnergyConservation.mlx) 
-| <img src="Images/image_9.png" width="171" alt="image_9.png"> | **In this script, students will...** <br>-  Compute momentum and energy from experimental observations. <br>-  Assess conservation of momentum. <br>-  Asses convervation of energy.  |
+| <img src="Images/image_9.png" width="171" alt="image_9.png"> | **In this script, students will...** <br>-  Compute momentum and energy from experimental observations. <br>-  Assess conservation of momentum. <br>-  Assess convervation of energy.  |
 | :-- | :-- |
 
 # Related Courseware Modules
