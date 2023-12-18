@@ -60,34 +60,43 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
  *If you are viewing this in a version of MATLAB prior to R2023b, you can view the learning outcomes for each script* [*here*](https://www.mathworks.com/matlabcentral/fileexchange/94230-air-track-collisions-lab)*.*
 
 ## [**Theory.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Theory.mlx) 
-| <img src="Images/image_4.png" width="171" alt="image_4.png"> | **In this script, students will...** <br>-  Learn about the theorical background of collisions.  |
+|  | **In this script, students will...** |
 | :-- | :-- |
+| <img src="Images/image_4.png" width="171" alt="image_4.png"> | -  Learn about the theorical background of collisions.  |
 
 ## [**Prelab.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Prelab.mlx) 
-| <img src="Images/image_5.png" width="171" alt="image_5.png"> | **In this script, students will...** <br>-  Learn about the virtual lab setup. <br>-  Perform introductory calculations.  |
+|  | **In this script, students will...** |
 | :-- | :-- |
+| <img src="Images/image_5.png" width="171" alt="image_5.png"> | -  Learn about the virtual lab setup. <br>-  Perform introductory calculations.  |
 
 ## [**VirtualLab.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=VirtualLab.mlx) 
-| <img src="Images/image_6.png" width="171" alt="image_6.png"> | **In this script, students will...** <br>-  Run simulations with the virtual lab.  |
+|  | **In this script, students will...** |
 | :-- | :-- |
+| <img src="Images/image_6.png" width="171" alt="image_6.png"> | -  Run simulations with the virtual lab.  |
+
 
 ## [**ElasticCollisions.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=ElasticCollisions.mlx) 
-| <img src="Images/image_7.png" width="171" alt="image_7.png"> | **In this script, students will...** <br>-  Conduct experiment with elastic collision. <br>-  Perform measurements. <br>-  Calculatate velocities before and after collision.  |
+|  | **In this script, students will...** |
 | :-- | :-- |
+| <img src="Images/image_7.png" width="171" alt="image_7.png"> |-  Conduct experiment with elastic collision. <br>-  Perform measurements. <br>-  Calculatate velocities before and after collision.  |
 
 ## [**InelasticCollisions.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=InelasticCollisions.mlx) 
-| <img src="Images/image_8.png" width="171" alt="image_8.png"> | **In this script, students will...** <br>-  Conduct experiment with inelastic collision. <br>-  Perform measurements. <br>-  Calculatate velocities before and after collision.  |
+|  | **In this script, students will...** |
 | :-- | :-- |
+| <img src="Images/image_8.png" width="171" alt="image_8.png"> | -  Conduct experiment with inelastic collision. <br>-  Perform measurements. <br>-  Calculatate velocities before and after collision.  |
 
 ## [**EnergyConservation.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=EnergyConservation.mlx) 
-| <img src="Images/image_9.png" width="171" alt="image_9.png"> | **In this script, students will...** <br>-  Compute momentum and energy from experimental observations. <br>-  Assess conservation of momentum. <br>-  Assess convervation of energy.  |
+|  | **In this script, students will...** |
 | :-- | :-- |
+| <img src="Images/image_9.png" width="171" alt="image_9.png"> | -  Compute momentum and energy from experimental observations. <br>-  Assess conservation of momentum. <br>-  Assess convervation of energy.  |
 
 # Related Courseware Modules
 <a name="H_868F5748"></a>
 ## [Virtual Measurement of the Electron to Mass ratio](https://www.mathworks.com/matlabcentral/fileexchange/94540-virtual-measurement-of-e-m-lab)
-| <img src="Images/image_10.png" width="171" alt="image_10.png"> | **Available on:**[<img src="Images/image_11.png" width="91" alt="image_11.png">](https://www.mathworks.com/matlabcentral/fileexchange/94540-virtual-measurement-of-e-m-lab)[<img src="Images/image_12.png" width="136" alt="image_12.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab&file=emLab.mlx) [GitHub](https://github.com/MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab)  |
+|  | **Available on:** |
 | :-- | :-- |
+| <img src="Images/image_10.png" width="171" alt="image_10.png"> | [<img src="Images/image_11.png" width="91" alt="image_11.png">](https://www.mathworks.com/matlabcentral/fileexchange/94540-virtual-measurement-of-e-m-lab) <br> [<img src="Images/image_12.png" width="136" alt="image_12.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab&file=emLab.mlx) <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab)  |
+
 
 
 Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
