@@ -1,4 +1,3 @@
-
 # <span style="color:rgb(213,80,0)">Air Track Collisions Lab</span>
 
 
@@ -58,7 +57,7 @@ Ensure you have all the required products (listed below) installed. If you need 
 ## [**Theory.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/Theory.mlx) 
 |      |      |
 | :-- | :-- |
-| <img src="Images/image_4.png" width="171" alt="image_4.png"> <br>  | **In this script, students will...** <br> $\bullet$ Learn about the theorical background of collisions. <br>   |
+| <img src="Images/image_4.png" width="171" alt="image_4.png"> <br>  | **In this script, students will...** <br> $\bullet$ Learn about the theoretical background of collisions. <br>   |
 |      |       |
 
 ## [**Prelab.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/Prelab.mlx) 
@@ -76,19 +75,19 @@ Ensure you have all the required products (listed below) installed. If you need 
 ## [**ElasticCollisions.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/ElasticCollisions.mlx) 
 |      |      |
 | :-- | :-- |
-| <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ Conduct experiment with elastic collision. <br> $\bullet$ Perform measurements. <br> $\bullet$ Calculatate velocities before and after collision. <br>   |
+| <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ Conduct experiment with elastic collision. <br> $\bullet$ Perform measurements. <br> $\bullet$ Calculate velocities before and after collision. <br>   |
 |      |       |
 
 ## [**InelasticCollisions.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/InelasticCollisions.mlx) 
 |      |      |
 | :-- | :-- |
-| <img src="Images/image_8.png" width="171" alt="image_8.png"> <br>  | **In this script, students will...** <br> $\bullet$ Conduct experiment with inelastic collision. <br> $\bullet$ Perform measurements. <br> $\bullet$ Calculatate velocities before and after collision. <br>   |
+| <img src="Images/image_8.png" width="171" alt="image_8.png"> <br>  | **In this script, students will...** <br> $\bullet$ Conduct experiment with inelastic collision. <br> $\bullet$ Perform measurements. <br> $\bullet$ Calculate velocities before and after collision. <br>   |
 |      |       |
 
 ## [**EnergyConservation.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/EnergyConservation.mlx) 
 |      |      |
 | :-- | :-- |
-| <img src="Images/image_9.png" width="171" alt="image_9.png"> <br>  | **In this script, students will...** <br> $\bullet$ Compute momentum and energy from experimental observations. <br> $\bullet$ Assess conservation of momentum. <br> $\bullet$ Asses conservation of energy. <br>   |
+| <img src="Images/image_9.png" width="171" alt="image_9.png"> <br>  | **In this script, students will...** <br> $\bullet$ Compute momentum and energy from experimental observations. <br> $\bullet$ Assess conservation of momentum. <br> $\bullet$ Assess conservation of energy. <br>   |
 |      |       |
 
 # Related Courseware Modules
