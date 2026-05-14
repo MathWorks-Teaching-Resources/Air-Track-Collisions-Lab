@@ -6,7 +6,7 @@
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94230-air-track-collisions-lab) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=README.mlx)
 
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FAir-Track-Collisions-Lab%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Air-Track-Collisions-Lab)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Air-Track-Collisions-Lab/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Air-Track-Collisions-Lab)
 
 **Curriculum Module**
 
