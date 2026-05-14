@@ -79,7 +79,9 @@ jobs:
         Releases: [R2025b, R2026a]
     runs-on: ubuntu-latest
     env:
-      MATLAB_PRODUCTS: > Simulink Simscape
+      MATLAB_PRODUCTS: >
+        Simulink
+        Simscape
       LD_PRELOAD: /usr/lib/x86_64-linux-gnu/libstdc++.so.6
     steps:
       # Checks-out your repository
