@@ -102,7 +102,7 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 ## [Virtual Measurement of the Electron to Mass ratio](https://www.mathworks.com/matlabcentral/fileexchange/94540-virtual-measurement-of-e-m-lab)
 |||
 | :-- | :-- |
-| <img src="Images/image_10.png" width="171" alt="image_10.png"> <br>  | **Available on:** <br> [<img src="Images/image_11.png" width="91" alt="image_11.png">](https://www.mathworks.com/matlabcentral/fileexchange/94540-virtual-measurement-of-e-m-lab) <br> [<img src="Images/image_12.png" width="136" alt="image_12.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab&file=emLab.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab) <br>   |
+| <img src="Images/image_10.png" width="171" alt="image_10.png"> <br>  | **Available on:** <br> [<img src="Images/image_11.png" width="91" alt="image_11.png">](https://www.mathworks.com/matlabcentral/fileexchange/94540-virtual-measurement-of-e-m-lab) <br> [<img src="Images/image_12.png" width="136" alt="image_12.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab&file=Scripts/emLab.m)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Virtual-Measurement-of-the-Electron-Charge-To-Mass-Ratio-Lab) <br>   |
 
 Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
 
