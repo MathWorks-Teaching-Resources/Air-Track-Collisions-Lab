@@ -1,5 +1,6 @@
-% Pre-run script for ElasticCollisionsSoln.mlx
+% Pre-run script for ElasticCollisionsSoln.m
 % ---- Known Issues -----
 KnownIssuesID = "";
 % ---- Pre-run commands -----
- 
+% <matlab:ShareFeedback Share your feedback>
+

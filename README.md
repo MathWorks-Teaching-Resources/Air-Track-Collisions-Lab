@@ -4,7 +4,7 @@
 <a id="H_053613DF"></a>
 
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94230-air-track-collisions-lab) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94230-air-track-collisions-lab) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=README.m)
 
 [![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Air-Track-Collisions-Lab/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Air-Track-Collisions-Lab)
 
@@ -40,6 +40,8 @@ This module assumes knowledge of foundational physics principles and classical m
 
 ## Getting Started
 
+**MATLAB R2024b or older:** Use the [legacy MLX release](https://github.com/MathWorks-Teaching-Resources/Air-Track-Collisions-Lab/releases/tag/mlx).
+
 ### Accessing the Module
 
 ### **On MATLAB Online:**
@@ -63,32 +65,32 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 
 # Scripts
 
-## [**Theory**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/Theory.mlx) 
+## [**Theory**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/Theory.m)
 |||
 | :-- | :-- |
 | <img src="Images/image_4.png" width="171" alt="image_4.png"> <br>  | **In this script, students will...** <br> $\bullet$ Learn about the theoretical background of collisions. <br>   |
 
-## [**Prelab**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/Prelab.mlx) 
+## [**Prelab**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/Prelab.m)
 |||
 | :-- | :-- |
 | <img src="Images/image_5.png" width="171" alt="image_5.png"> <br>  | **In this script, students will...** <br> $\bullet$ Learn about the virtual lab setup. <br> $\bullet$ Perform introductory calculations. <br>   |
 
-## [**VirtualLab**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/VirtualLab.mlx) 
+## [**VirtualLab**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/VirtualLab.m)
 |||
 | :-- | :-- |
 | <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ Run simulations with the virtual lab. <br>   |
 
-## [**ElasticCollisions**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/ElasticCollisions.mlx) 
+## [**ElasticCollisions**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/ElasticCollisions.m)
 |||
 | :-- | :-- |
 | <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ Conduct experiment with elastic collision. <br> $\bullet$ Perform measurements. <br> $\bullet$ Calculate velocities before and after collision. <br>   |
 
-## [**InelasticCollisions**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/InelasticCollisions.mlx) 
+## [**InelasticCollisions**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/InelasticCollisions.m)
 |||
 | :-- | :-- |
 | <img src="Images/image_8.png" width="171" alt="image_8.png"> <br>  | **In this script, students will...** <br> $\bullet$ Conduct experiment with inelastic collision. <br> $\bullet$ Perform measurements. <br> $\bullet$ Calculate velocities before and after collision. <br>   |
 
-## [**EnergyConservation**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/EnergyConservation.mlx) 
+## [**EnergyConservation**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Air-Track-Collisions-Lab&project=Air_Track_Lab.prj&file=Scripts/EnergyConservation.m)
 |||
 | :-- | :-- |
 | <img src="Images/image_9.png" width="171" alt="image_9.png"> <br>  | **In this script, students will...** <br> $\bullet$ Compute momentum and energy from experimental observations. <br> $\bullet$ Assess conservation of momentum. <br> $\bullet$ Assess conservation of energy. <br>   |
@@ -113,4 +115,4 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 
 Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Air-Track-Collisions-Lab/blob/release/CONTRIBUTING.md) page on GitHub.
 
- *©* Copyright 2025 The MathWorks™, Inc
+ *©* Copyright 2026 The MathWorks™, Inc
